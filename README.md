@@ -26,8 +26,10 @@ A simple and interactive Quiz Application built using Python and Tkinter.
 3. Run the Python file.
 4. Start the quiz and enjoy!
 
+## Demo Video
 
-
+[Watch Quiz App Demo]
+https://github.com/meharmehar4795-create/Python-Quiz-Application/issues/1
 
 ## Project By
 
