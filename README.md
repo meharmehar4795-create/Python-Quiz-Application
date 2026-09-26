@@ -26,6 +26,9 @@ A simple and interactive Quiz Application built using Python and Tkinter.
 3. Run the Python file.
 4. Start the quiz and enjoy!
 
+
+
+
 ## Project By
 
 Meharajunnisa 
